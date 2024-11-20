@@ -1,13 +1,13 @@
 # Physics-Assignment-002
 CSE 60(B)
 Group #2
-Team members
+Team members:
 
 Jannatul Mauya Nabila 
 ID: 241-115-055
 
-Aditi Chakraborty suchana
-Id: 241-115-070
+Aditi Chakraborty Suchana
+ID: 241-115-070
 
 Anojith Roy
 ID: 241-115-078
